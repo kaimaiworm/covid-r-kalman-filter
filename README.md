@@ -9,4 +9,8 @@ JHU: Dong E.; Du H.; Gardner L. (2020); An interactive web-based dashboard to tr
 
 RKI: Robert Koch-Institut (RKI), dl-de/by-2-0
   
-More on state-space modelling: Harvey, A.C. (1990); Forecasting, structural time series models and the Kalman filter; Cambridge University Press
+More on state-space modelling: 
+
+Durbin, J.; Koopman, S.J. (2012); Time series analysis by state space methods; Oxford University Press
+
+Harvey, A.C. (1990); Forecasting, structural time series models and the Kalman filter; Cambridge University Press
